@@ -1,0 +1,6 @@
+1. enronprojectlatest.ipynb is the file of complete analysis. (exploration, outlier) etc.(Not Uploaded)
+2. k4asplit0.2.ipynb is final one considered for report.(Not uploaded)
+3. reportlatest.ipynb or reportlatest.md (Questions are answered in the report)
+4. Remaining html files 
+5. some of the pkl files are not running. So I have converted them using dos to unix conversion. 
+They are named with an extension of _unix.
